@@ -1,1 +1,5 @@
-I like eating tacos. The real ones. Not the hard shell ones.
+I’m currently an Electrical and Computer Engineering Honors and Canfield Business Honors student at the University of Texas at Austin, driven by a passion for pushing boundaries in medical technology. As Signals Team Lead at Longhorn Neurotech, I work with two teams to explore how advanced neural interfaces can transform lives.
+
+My interest in this field extends beyond technical innovation—I'm excited about the intersection of engineering and entrepreneurship, seeking opportunities to bring groundbreaking technologies to market. I believe the future of healthcare lies in blending cutting-edge tech with business acumen to create real-world solutions that improve quality of life.
+
+Alongside my academic pursuits, I work as a web developer at Frisco Web agency, where I hone my problem-solving skills by building impactful web solutions for clients. Outside of tech, I’m a musician who finds inspiration in the intricate patterns of music. I love playing guitar and am fascinated by how music connects deeply with people in ways that are both simple and complex. In my free time, I enjoy lifting weights and rock climbing.
